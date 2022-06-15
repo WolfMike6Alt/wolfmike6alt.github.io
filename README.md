@@ -17,7 +17,7 @@ test 4
 
 
 test 5:
-<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/WolfMike6Alt/FingerWay/main/Finger%20Way.ipa" download>
+<a class="get-btn" href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist">Get</a>
 <button type="button">Download</button>
 
 test 6:
