@@ -3,11 +3,11 @@ WolfMike6Alts 100% Safe IPA Library
 
 
 Download Finger Olympic:
-<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/WolfMike6Alt/FingerWay/main/app.plist"><button type="button">Download</button></a>
+<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/fingerway.plist"><button type="button">Download</button></a>
 
 
 
 
 
 <! Working but not a legit button >
-<! <a class="get-btn" href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist">Get</a> >
+<! <a class="get-btn" href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/fingerway.plist">Get</a> >
