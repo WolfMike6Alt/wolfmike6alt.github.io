@@ -28,3 +28,11 @@ test 7:
 
 test 8:
 <a href="https://raw.githubusercontent.com/WolfMike6Alt/FingerWay/main/Finger%20Way.ipa">download</a>
+
+test 9:
+<form action="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist">
+         <button type="button">Click me</button>
+  
+  test 10:
+<form action="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/FingerWay/main/Finger%20Way.ipa">
+         <button type="button">Click me</button>
