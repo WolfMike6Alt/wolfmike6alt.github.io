@@ -10,3 +10,7 @@ Working but not a legit button
 
 ANOTHER TEST
 <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist" class="get-btn">GET</a>
+
+
+test 4
+<form method="get" action="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist"><button type="submit">download finger way</button></form>
