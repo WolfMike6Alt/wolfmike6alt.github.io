@@ -1,5 +1,7 @@
 # wolfmike6alt.github.io
 
+<link rel="shortcut icon" href="https://i1.sndcdn.com/avatars-nvvjIs6uobeM5PN2-XmXH5w-t200x200.jpg">
+
 Apps
 
 Finger Olympic:
