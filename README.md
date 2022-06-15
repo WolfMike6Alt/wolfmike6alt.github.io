@@ -16,7 +16,7 @@ test 4
 <form method="get" action="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist"><button type="submit">download finger way</button></form>
 
 
-test 5:
+test 5 (changed):
 <a class="get-btn" href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist">Get</a>
 <button type="button">Download</button>
 
