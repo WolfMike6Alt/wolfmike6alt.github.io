@@ -18,5 +18,5 @@ Test 1:
 Test 2:
 <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/WolfMike6Alt/FingerWay/main/app.plist"><button type="button">Download</button></a>
 
-Test 3:
-<button type="button">Download</button>
+Test 3: update
+<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/WolfMike6Alt/FingerWay/main/app.plist"><button type="button">Download</button>
