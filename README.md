@@ -6,5 +6,4 @@ Download Finger Olympic:
 
 
 test
-<button class="btn" style="width:100%"><i class="fa fa-download"></i> Download</button>
-
+<a class="get-btn" href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/WolfMike6Alt/wolfmike6alt.github.io/main/app.plist">Get</a>
